@@ -1,0 +1,7 @@
+name: VioFriends
+main: space.deniska.Main
+version: 1.0.0
+author: violanes
+commands:
+  friend:
+    description: Randomly find new friend
